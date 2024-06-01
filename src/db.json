@@ -1,0 +1,55 @@
+{
+  "matches":[],
+  "teams": [
+    {
+      "id": 1,
+      "name": "Bangladesh",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+    },
+    {
+      "id": 2,
+      "name": "Sri Lanka",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg"
+    },
+    {
+      "id": 3,
+      "name": "India",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+    },
+    {
+      "id": 4,
+      "name": "Pakistan",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+    },
+    {
+      "id": 5,
+      "name": "Australia",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg"
+    },
+    {
+      "id": 6,
+      "name": "England",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg"
+    },
+    {
+      "id": 7,
+      "name": "New Zealand",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg"
+    },
+    {
+      "id": 8,
+      "name": "South Africa",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg"
+    },
+    {
+      "id": 9,
+      "name": "Afghanistan",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg"
+    },
+    {
+      "id": 10,
+      "name": "Netherlands",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
+    }
+  ]
+}
